@@ -37,11 +37,15 @@ BenzzDuo can make a real buzz in the industry of Audio conversation and engageme
 
 # Test the Application
 Log in to https://dhwani.dynopii.com/
+
 Username: demoagent
+
 Email: demoagent@dynopii.com
+
 Password: DemoPass098
 
 If you want to run the application in your system download the executable:
+https://github.com/ashhadulislam/BenzzDuo-/blob/main/dhwani_virt_mic_x64.exe
 
 
 https://youtu.be/FYJ7yNkciW8
